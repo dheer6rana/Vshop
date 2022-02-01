@@ -1,8 +1,15 @@
-const num1 = 5;
-const num2 = 3;
+
+    const num1 = 5;
+    const num2 = 3;
 
 
-const sum = num1 + num2;
+    const sum = num1 + num2;
+    console.log('The sum of ' + num1 + ' and ' + num2 + ' is: ' + sum);
 
+    //Natural Number from 1 to 10:
+    var i = 1;
+    for (i = 1; i <= 10; i++) {
+ 
+        console.log(i);
 
-console.log('The sum of ' + num1 + ' and ' + num2 + ' is: ' + sum);
+    } 
