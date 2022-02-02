@@ -1,0 +1,8 @@
+# Vshop
+
+var x = 15;
+var y = 10;
+
+sub = x - y;
+
+console.log('sub of'+ x 'and' + y 'is' + sub); 
